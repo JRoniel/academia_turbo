@@ -9,4 +9,6 @@ O que aconteceu até agora:
 - Refatoramento de animações.
 - Acrescentado view-port para carregamento assincrono.
 - Acrescentando atributo 'alt' a todas as imagens.
-- Remoção de chamadas de terceiros desnecessarias
+- Remoção de chamadas de terceiros desnecessarias.
+
+- Correção de erro sobre background-image
