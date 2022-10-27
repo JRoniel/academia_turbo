@@ -26,5 +26,5 @@
 
 <h4>Ótima melhora, Confira você mesmo:</h4>
 
-Antes: <a href='https://pagespeed.web.dev/report?url=https%3A%2F%2Fcrfuncional.netlify.app%2F&form_factor=desktop'>ver antes</a><br>
-Depois: <a href='https://pagespeed.web.dev/report?url=https%3A%2F%2Fjroniel.github.io%2Facademia_turbo%2Findex.html&form_factor=desktop'>ver depois</a>
+Antes: <a href='https://pagespeed.web.dev/report?url=https%3A%2F%2Fcrfuncional.netlify.app%2F&form_factor=desktop' target="_blank">ver antes</a><br>
+Depois: <a href='https://pagespeed.web.dev/report?url=https%3A%2F%2Fjroniel.github.io%2Facademia_turbo%2Findex.html&form_factor=desktop' target="_blank">ver depois</a>
