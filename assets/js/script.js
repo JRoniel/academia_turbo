@@ -1,14 +1,1 @@
-function cadastrado(){
-
-    let telaCont = document.getElementById("tela");
-    alert("Dados Salvos!")
-    document.location.reload(true)
-
-}
-
-$(document).ready(function(){
-    $(".hamburguer").click(function(){
-        $(this).toggleClass("active");
-        $(".menu").toggleClass("active");
-    })
-});
+let burg=document.querySelector(".hamburguer");burg.addEventListener("click",function(){burg.classList.toggle("active"),document.querySelector(".menu").classList.toggle("active")});

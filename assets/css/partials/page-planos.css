@@ -1,7 +1,11 @@
 @keyframes planos {
-    from {left: -1500px;}
-    to {left: 0;}
-  }
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+}
 
 .planos{
     display: flex;
@@ -10,7 +14,7 @@
     align-items: center;
 
     position: relative;
-    animation: planos 3s;
+    animation: planos 2.1s;
 }
 .retPlanos{
     
